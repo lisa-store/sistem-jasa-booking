@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "password": "admin123",
+    "role": "admin"
+  },
+  "lisa02": {
+    "password": "020622",
+    "role": "user"
+  },
+  "dimaslisa": {
+    "password": "020622",
+    "role": "user"
+  }
+}
